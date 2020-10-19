@@ -1,0 +1,24 @@
+{
+    "contributes": [
+        {
+            "keywords": [
+                "function",
+                "=>",
+                "func",
+                "def"
+            ],
+            "voices": [
+                "function_01.mp3"
+            ]
+        },
+        {
+            "keywords": [
+                "import",
+                "include"
+            ],
+            "voices": [
+                "import_01.mp3"
+            ]
+        } 
+    ]
+}

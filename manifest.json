@@ -1,0 +1,12 @@
+{
+    "name": "yq-rainbow-fart",
+    "display-name": "YuQian Voice Chinese",
+    "avatar": "avatar.jpg",
+    "avatar-dark": "avatar-dark.jpg",
+    "version": "1.0.0",
+    "description": "于谦语言包",
+    "languages": ["javascript"],
+    "author": "Eran Cheung",
+    "gender": "male",
+    "locale": "zh"
+}
